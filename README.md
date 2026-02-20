@@ -28,5 +28,5 @@ The focus is on ensuring that:
 
 ---
 
-![KidsApp Test Suite Screenshot](ClothingApp.png)
+![KidsApp Test Suite Screenshot](ClothingAppCheckout.png)
 
